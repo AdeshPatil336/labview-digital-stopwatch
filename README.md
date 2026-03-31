@@ -13,6 +13,15 @@ This project implements a digital stopwatch in LabVIEW and automates VI executio
 - Python
 - pywin32
 
+## 📸 Screenshots
+
+### Front Panel
+![Front Panel](ScreenShots/Front Panel.png)
+
+### Block Diagram
+![Block Diagram](ScreenShots/Block Diagram.png)
+
+
 ## 🎥 Demo
 Coming soon...
 
