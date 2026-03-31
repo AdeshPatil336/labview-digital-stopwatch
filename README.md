@@ -16,7 +16,7 @@ This project implements a digital stopwatch in LabVIEW and automates VI executio
 ## 📸 Screenshots
 
 ### Front Panel
-![Front Panel](ScreenShots/FrontP%20anel.png)
+![Front Panel](ScreenShots/Front%20Panel.png)
 
 ### Block Diagram
 ![Block Diagram](ScreenShots/Block%20Diagram.png)
